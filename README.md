@@ -1,2 +1,2 @@
-# rimuweb
+# rimu web
 website
